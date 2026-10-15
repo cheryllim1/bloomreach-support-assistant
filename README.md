@@ -1,4 +1,4 @@
-<img width="1027" height="820" alt="image" src="https://github.com/user-attachments/assets/e8d86aa1-180f-4264-8e9d-243f933c76d9" /># Bloomreach Support  (AI Assistant)
+
 
 ## The Problem
 Bloomreach Support (https://support.bloomreach.com/hc/en-us) lacks an integrated AI assistant, while Bloomreach Documentation (https://documentation.bloomreach.com/) does not index troubleshooting and ticket resolution data from Support. This leaves system integrators jumping between siloed resources when diagnosing complex blocking errors.
