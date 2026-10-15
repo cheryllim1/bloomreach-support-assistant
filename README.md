@@ -4,8 +4,8 @@
 Bloomreach Support (https://support.bloomreach.com/hc/en-us) lacks an integrated AI assistant, while Bloomreach Documentation (https://documentation.bloomreach.com/) does not index troubleshooting and ticket resolution data from Support. This leaves system integrators jumping between siloed resources when diagnosing complex blocking errors.
 
 For example: (See images) <br>
-[Prompt 1](https://github.com/cheryllim1/bloomreach-support-assistant/blob/main/prompt1_out_of_memory.png): Out of memory in environment [SOURCE](https://support.bloomreach.com/hc/en-us/articles/19133481049373-Out-of-Memory) <br>
-Prompt 2: Link missing after translation in content <br>
+[Prompt 1](https://github.com/cheryllim1/bloomreach-support-assistant/blob/main/prompt1_out_of_memory.png): Out of memory in environment [Source](https://support.bloomreach.com/hc/en-us/articles/19133481049373-Out-of-Memory) <br>
+[Prompt 2: Link missing after translation in content <br>
 Prompt 3: Is it possible to track an uninstall event if a user has deleted the app <br>
 
 ## The Solution: The 4-Part Diagnostic Framework
