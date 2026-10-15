@@ -16,7 +16,7 @@ To bridge this gap, this assistant acts as an unified AI layer combining officia
 3. Guardrails & Edge Cases
 4. Proactive Prevention
 
->>>>>>[ACCESS HERE](https://notebook.google.com/notebook/1c676537-46bd-48b6-aecf-ca57634c8530)<<<<<<<
+[ACCESS HERE](https://notebook.google.com/notebook/1c676537-46bd-48b6-aecf-ca57634c8530)
 
 Note: this notebook may NOT be accurate and is based on information scraped from only 377 webpages. <br>
 Created by Cheryl Lim
