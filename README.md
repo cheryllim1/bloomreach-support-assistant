@@ -1,4 +1,4 @@
-# Bloomreach Partner Solutions Architect (AI Assistant)
+# Bloomreach Support  (AI Assistant)
 
 ## The Problem
 Bloomreach Support (https://support.bloomreach.com/hc/en-us) lacks an integrated AI assistant, while Bloomreach Documentation (https://documentation.bloomreach.com/) does not index troubleshooting and ticket resolution data from Support. This leaves system integrators jumping between siloed resources when diagnosing complex blocking errors.
